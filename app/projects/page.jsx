@@ -23,8 +23,8 @@ const projects = [
     title: "My Portfolio Site",
     description: "Next.js portfolio site",
     image: "/assets/work/thumb3.png",
-    link: "",
-    github: "",
+    link: "https://yongshan.netlify.app/",
+    github: "https://github.com/Coral-ctrl/portfolio-next.git",
     tech: ["Next.js", "Tailwind CSS", "Shadcn UI"],
   },
   {
